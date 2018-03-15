@@ -1,0 +1,10 @@
+C:\Users\CXC-LEO\Documents\Leo\leo\programas\ProyectConsole\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\CXC-LEO\Documents\Leo\leo\programas\ProyectConsole\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\CXC-LEO\Documents\Leo\leo\programas\ProyectConsole\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\CXC-LEO\Documents\Leo\leo\programas\ProyectConsole\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Users\CXC-LEO\Documents\Leo\leo\programas\ProyectConsole\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\CXC-LEO\Documents\Leo\leo\programas\ProyectConsole\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\CXC-LEO\Documents\Leo\leo\programas\ProyectConsole\ConsoleApplication1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\CXC-LEO\Documents\Leo\leo\programas\ProyectConsole\ConsoleApplication1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\CXC-LEO\Documents\Leo\leo\programas\ProyectConsole\ConsoleApplication1\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\CXC-LEO\Documents\Leo\leo\programas\ProyectConsole\ConsoleApplication1\bin\Debug\System.Net.Http.Formatting.xml
